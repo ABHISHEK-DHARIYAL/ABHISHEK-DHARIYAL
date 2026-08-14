@@ -1,241 +1,299 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=ABHISHEK%20DHARIYAL&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=building%20systems%2C%20not%20just%20apps&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ABHISHEK%20DHARIYAL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20Progress&descAlignY=62&descSize=17" width="100%"/>
 
-</div>
+Building software with curiosity, fundamentals, and intent.
 
-<div align="center">
-
-```
-$ whoami
-> B.Tech CSE student · Pandit Deendayal Energy University, Gujarat · Class of 2028
-
-$ cat interests.txt
-> backend engineering · concurrency · system design · data structures & algorithms
-
-$ status --current
-> deep in Java concurrency internals, shipping NexusFlow, grinding DSA on LeetCode
-```
-
-</div>
-
-<p align="center">
-  <a href="#-engineering-philosophy">Philosophy</a> ·
-  <a href="#-tech-stack">Stack</a> ·
-  <a href="#-project-ecosystem">Projects</a> ·
-  <a href="#-github-metrics">Metrics</a> ·
-  <a href="#-dsa--problem-solving">DSA</a> ·
-  <a href="#-connect">Connect</a>
+<p>
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+  <a href="YOUR_LEETCODE_URL">LeetCode</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
-<br/>
+</div>
 
-## 🧭 Engineering Philosophy
+👋 About Me
 
-Most student projects stop once the feature "works." Mine tend to start there and keep going — into what happens under load, under bad input, under concurrent access.
+I'm Abhishek Dhariyal, a B.Tech student at Pandit Deendayal Energy University (PDEU), graduating in 2028.
 
-- **I build the layer beneath the framework.** `NexusFlow`'s thread pool doesn't use `java.util.concurrent` — it's built on raw `ReentrantLock`, `Condition`, and a hand-rolled `BlockingQueue`, because understanding the primitive matters more than calling the utility.
-- **I finish systems, not demos.** Several of my projects carry real schemas, real auth flows, and real multi-layer architecture (frontend / API / data) rather than a single-file prototype.
-- **I iterate visibly.** My commit history is evidence, not a highlight reel — some projects are early scaffolds, others have dozens of incremental commits. Both are shown honestly below.
+I enjoy turning ideas into working software and going one level deeper to understand why the system works — from APIs and databases to concurrency, scheduling, and system design.
 
-<br/>
+My current direction sits at the intersection of:
 
-## 🛠️ Tech Stack
+Backend Engineering · Full-Stack Development · Java · DSA · Concurrency · System Design
 
-<table>
-<tr><td valign="top" width="15%"><b>Languages</b></td><td valign="top">
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" height="40"/>
-</td></tr>
-<tr><td valign="top"><b>Frontend</b></td><td valign="top">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" height="40"/>
-</td></tr>
-<tr><td valign="top"><b>Backend</b></td><td valign="top">
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
-</td></tr>
-<tr><td valign="top"><b>Data & Cloud</b></td><td valign="top">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="40"/>
-</td></tr>
-<tr><td valign="top"><b>Tooling</b></td><td valign="top">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" height="40"/>
-</td></tr>
-</table>
+Build it. Understand it. Improve it.
 
-**Concepts in active use:** DSA · OOP · DBMS & relational schema design · REST API design · Java concurrency (`ReentrantLock`, `Condition`, custom `BlockingQueue`, thread pools) · System design fundamentals
+⚡ At a Glance
 
-<br/>
+🎓 Education
 
-## 🌐 Project Ecosystem
+💻 Focus
 
-A map of what I build and the technology each piece leans on:
+🧠 Learning
 
-```mermaid
-graph LR
-    ME((Abhishek))
-    ME --> NF[NexusFlow]
-    ME --> WN[WorkSpace Nexus]
-    ME --> VN[VitalNode]
-    ME --> MS[MediCare-Scheduler]
+🚀 Building
 
-    NF --> NF1["Java concurrency engine<br/>(ThreadPool · BlockingQueue · Locks)"]
-    NF --> NF2["React + Vite frontend"]
-    NF --> NF3["Express API · JWT multi-tenant"]
+B.Tech · PDEU
 
-    WN --> WN1["Next.js + TypeScript"]
-    WN --> WN2["Firebase / Firestore"]
-    WN --> WN3["TipTap editor · PDF/DOCX parsing"]
+Backend & Full-Stack
 
-    VN --> VN1["Node.js + Express"]
-    VN --> VN2["MySQL relational schema"]
-    VN --> VN3["Chart.js analytics"]
+System Design
 
-    MS --> MS1["C++ scheduling core"]
-    MS --> MS2["Node.js + IPC"]
+Engineering Projects
 
-    style ME fill:#0F2027,stroke:#00C9A7,color:#fff
-    style NF fill:#16324a,stroke:#00C9A7,color:#fff
-    style WN fill:#16324a,stroke:#00C9A7,color:#fff
-    style VN fill:#16324a,stroke:#00C9A7,color:#fff
-    style MS fill:#16324a,stroke:#00C9A7,color:#fff
-```
+Class of 2028
 
-<br/>
+Java · C++ · JS
 
-### 🧵 NexusFlow — Concurrent Workflow Orchestration Engine
-**The flagship project — most technically ambitious in the ecosystem above.**
+Concurrency
 
-> **Problem:** Task schedulers built on top of `java.util.concurrent` hide exactly the mechanics worth understanding — queuing discipline, lock contention, fairness.
-> **Solution:** A JVM execution engine built from scratch — custom `ThreadPool`, worker loop, and a condition-signaled priority `BlockingQueue`, supporting priority, scheduled, retryable, and cancellable task types with dynamic thread scaling.
-> **Wrapped in:** a monorepo — React/Vite frontend for visualization, an Express API layer with JWT-based multi-tenant isolation, and the Java engine communicating underneath.
+Real-world Applications
 
-`Java` `ReentrantLock` `Condition` `Custom BlockingQueue` `React` `Node.js` `MySQL`
-
-<details>
-<summary><b>🔍 Architecture notes</b></summary>
-<br/>
-
-- Custom `ThreadPool` and `Worker` classes — no reliance on `Executors`
-- Priority / Scheduled / Retryable / Cancellable task types as distinct, composable implementations
-- API layer isolated by JWT-scoped tenancy so orchestration state stays partitioned per user
-- Repository is still early-stage on GitHub (single consolidated commit) — the engineering is real, the commit history isn't polished yet
-
-</details>
-
-**[→ View Repository](https://github.com/ABHISHEK-DHARIYAL/NexusFlow)**
-
----
-
-### 📁 WorkSpace Nexus — Document Management Platform
-**Most actively iterated project — 60+ incremental commits.**
-
-> **Problem:** Teams need a place to create, edit, and parse documents without juggling five disconnected tools.
-> **Solution:** A Next.js + TypeScript workspace backed by Firebase/Firestore, with a TipTap rich-text editor, PDF and DOCX ingestion (via Mammoth.js), and an Express API layer secured with JWT.
-
-`Next.js` `TypeScript` `Firebase` `Firestore` `Express` `JWT` `TipTap`
-
-**[→ View Repository](https://github.com/ABHISHEK-DHARIYAL/WorkSpace_Nexus)**
-
----
-
-### 🏥 VitalNode — Hospital Management System
-
-> **Problem:** Hospital operations span patients, doctors, appointments, billing, and equipment — usually tracked in disconnected spreadsheets.
-> **Solution:** A relational MySQL-backed system joining patients, doctors, and appointments, with role-based access via JWT and a Chart.js dashboard for revenue and device-monitoring analytics.
-
-`Node.js` `Express` `MySQL` `EJS` `JWT` `Chart.js`
-
-**[→ View Repository](https://github.com/ABHISHEK-DHARIYAL/VitalNode)**
-
----
-
-### ⚙️ MediCare-Scheduler — Hospital Patient Scheduling Simulator
-
-> **Problem:** Classic CPU scheduling algorithms are usually taught in isolation, disconnected from a real-world queuing scenario.
-> **Solution:** A C++ simulator applying FCFS/SJF/Round-Robin-style scheduling logic to patient queuing, communicating with a Node.js layer via IPC.
-
-`C++` `Scheduling Algorithms` `Node.js` `IPC`
-
-<sub>⚠️ Not currently visible among pinned repositories — confirm this repo is public, then update the link above.</sub>
-
-<br/>
-
-## 📊 GitHub Metrics
+🧩 My Engineering Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-DHARIYAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEK-DHARIYAL&theme=tokyonight&hide_border=true" height="165"/>
+Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-DHARIYAL&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" />
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+
+Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" />
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
 </div>
 
-**Commit activity, at a glance:**
+Core concepts: Data Structures & Algorithms · OOP · DBMS · REST APIs · Relational Database Design · Java Concurrency · System Design Fundamentals
+
+🚀 Selected Work
+
+These projects are selected from my GitHub based on engineering depth, architecture, and the problems they explore.
+
+🧵 NexusFlow
+
+Concurrent Workflow Orchestration Engine
+
+A systems-focused project exploring task execution, scheduling, concurrency, retries, priorities, cancellation, and worker management.
+
+Engineering: Java · ReentrantLock · Condition · Custom BlockingQueue · Thread Pool · Scheduling · Retry Logic · React · Node.js · MySQL
+
+View Repository →
+
+📁 Workspace Nexus
+
+Document Management Platform
+
+A full-stack workspace focused on document creation, editing, authentication, storage, and document processing.
+
+Engineering: Next.js · TypeScript · Firebase · Firestore · Express · JWT · TipTap · PDF/DOCX Processing
+
+View Repository →
+
+🏥 VitalNode
+
+Hospital Management System
+
+A database-driven healthcare management application covering operational workflows, authentication, role-based access, and analytics.
+
+Engineering: Node.js · Express · MySQL · EJS · JWT · RBAC · Chart.js
+
+View Repository →
+
+⚙️ MediCare-Scheduler
+
+Hospital Patient Scheduling Simulator
+
+A scheduling-focused project connecting algorithmic concepts with a practical patient-queue scenario.
+
+Engineering: C++ · CPU Scheduling · Node.js · IPC
+
+View Repository →
+
+🧠 Problem Solving
+
+I use Data Structures & Algorithms to strengthen the fundamentals behind the software I build.
+
+Current focus
+
+Graphs · Dynamic Programming · Greedy · Trees · Union-Find · Sliding Window · Binary Search
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEK-DHARIYAL&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo%202&ext=heatmap" width="90%" alt="LeetCode Statistics"/>
+</a>
+
 </div>
 
-<details>
-<summary><b>🐍 Add the contribution snake (optional, one-time setup)</b></summary>
-<br/>
+Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username.
 
-GitHub's contribution graph can be animated into a "snake" that eats your own contribution squares, generated by a scheduled GitHub Action in your own account:
-
-1. Create a repo named exactly `ABHISHEK-DHARIYAL` (a special "profile" repo, if not already this one).
-2. Add the workflow from [`Platane/snk`](https://github.com/Platane/snk) — it commits an SVG on a schedule.
-3. Embed the generated SVG:
-   ```md
-   ![snake](https://raw.githubusercontent.com/ABHISHEK-DHARIYAL/ABHISHEK-DHARIYAL/output/github-contribution-grid-snake.svg)
-   ```
-
-This isn't embedded by default here since it requires a GitHub Action running under your own account — nothing external can generate it for you.
-
-</details>
-
-<br/>
-
-## 🧠 DSA & Problem Solving
-
-Consistent practice on **LeetCode**, currently centered on graph algorithms, DSU/Union-Find, greedy strategies, and prefix-sum optimizations.
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/<your-leetcode-username>?theme=dark&font=baloo%202&ext=heatmap" width="90%"/>
-</div>
-
-<sub>⚠️ Swap in your real LeetCode handle above — this card renders live data once the placeholder is replaced.</sub>
-
-<br/>
-
-## 🎯 Currently Building / Learning
-
-```
-┌─ NOW ─────────────────────────────────────────────┐
-│ → Extending NexusFlow's scheduling & retry logic   │
-│ → Deepening Java concurrency (lock-free patterns)  │
-│ → Daily DSA practice — graphs, DP, advanced trees  │
-├─ NEXT ────────────────────────────────────────────┤
-│ → Distributed systems fundamentals                 │
-│ → Formal system design practice (scaling, caching) │
-└─────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-## 📫 Connect
+📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-linkedin-handle>)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/<your-leetcode-username>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+<img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-DHARIYAL&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" height="165" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEK-DHARIYAL&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
-<sub>Thanks for reading this far — that already puts you in the "technical" bucket. 🛠️</sub>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-DHARIYAL&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="165" alt="Top Languages"/>
+
 </div>
 
-<br/>
+📈 Contribution Activity
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEK-DHARIYAL&bg_color=0D1117&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution Activity Graph"/>
+
+</div>
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ABHISHEK-DHARIYAL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="96%" alt="GitHub Trophies"/>
+
+</div>
+
+🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ABHISHEK-DHARIYAL/ABHISHEK-DHARIYAL/output/github-contribution-grid-snake.svg" width="96%" alt="Contribution Snake"/>
+
+</div>
+
+Setup: The snake requires a GitHub Action to generate the SVG. If it is not available yet, add the Platane/snk workflow to your profile repository.
+
+🌱 Currently
+
+BUILDING
+└── Software projects that go beyond the basic CRUD layer
+
+LEARNING
+├── Java Concurrency
+├── System Design
+├── Distributed Systems Fundamentals
+└── Advanced DSA
+
+EXPLORING
+├── Backend Architecture
+├── Performance & Scalability
+└── Developer Tooling
+
+GOAL
+└── Become a strong Software / Backend Engineer
+
+🔭 What I Care About
+
+        Fundamentals
+             │
+             ▼
+      ┌──────────────┐
+      │  Good Design │
+      └──────┬───────┘
+             │
+     ┌───────┼────────┐
+     ▼       ▼        ▼
+
+Backend Systems DSA
+│ │ │
+└───────┼────────┘
+▼
+Reliable Software
+
+I like projects where the interesting part is not only making the feature work, but understanding what happens underneath it — data flow, concurrency, failure handling, architecture, and scalability.
+
+📚 Engineering Interests
+
+Area
+
+What interests me
+
+☕ Java
+
+OOP, concurrency, JVM fundamentals
+
+🧵 Concurrency
+
+Locks, conditions, queues, scheduling, workers
+
+🌐 Backend
+
+APIs, authentication, architecture, reliability
+
+🗄️ Databases
+
+Schema design, queries, relationships, optimization
+
+🧠 DSA
+
+Problem solving, algorithms, complexity
+
+🏗️ System Design
+
+Scalability, caching, distributed components
+
+⚛️ Full Stack
+
+Building complete products from UI to data layer
+
+🎯 Developer Journey
+
+Learn fundamentals
+↓
+Build projects
+↓
+Break things
+↓
+Understand why
+↓
+Improve the architecture
+↓
+Build something better
+
+I'm still early in the journey — and that's exactly what makes the process exciting.
+
+📫 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+Keep building. Keep questioning. Keep improving.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2C5364,100:0F2027" width="100%"/>
+
+</div>
