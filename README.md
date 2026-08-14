@@ -1,134 +1,182 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=ABHISHEK%20DHARIYAL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20Progress&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=ABHISHEK%20DHARIYAL&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20in%20Progress%20%7C%20Backend%20%26%20Systems&descAlignY=54&descSize=16" width="100%"/>
 
-Building software with curiosity, fundamentals, and intent.
+<a href="https://www.linkedin.com/in/abhishek-dhariyal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://potfolio-coral-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Abhishek_notKnown/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/idk_notKnown"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://github.com/ABHISHEK-DHARIYAL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<p>
-  <a href="https://www.linkedin.com/in/abhishek-dhariyal/">LinkedIn</a> •
-  <a href="https://potfolio-coral-six.vercel.app/">Portfolio</a> •
-  <a href="https://leetcode.com/u/Abhishek_notKnown/">LeetCode</a> •
-  <a href="https://codeforces.com/profile/idk_notKnown">Codeforces</a> •
-  <a href="https://github.com/ABHISHEK-DHARIYAL">GitHub</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=ABHISHEK-DHARIYAL&label=Profile%20Views&color=2C5364&style=flat" alt="Profile Views"/>
 
 </div>
 
-👋 About Me
-
-I'm Abhishek Dhariyal, a B.Tech student at Pandit Deendayal Energy University (PDEU), graduating in 2028.
-
-I enjoy turning ideas into working software and going one level deeper to understand why the system works — from APIs and databases to concurrency, scheduling, and system design.
-
-My current direction sits at the intersection of:
-
-Backend Engineering · Full-Stack Development · Java · DSA · Concurrency · System Design
-
-Build it. Understand it. Improve it.
-
-⚡ At a Glance
-
-🎓 Education
-
-💻 Focus
-
-🧠 Learning
-
-🚀 Building
-
-B.Tech · PDEU
-
-Backend & Full-Stack
-
-System Design
-
-Software Projects
-
-Class of 2028
-
-Java · C++ · JavaScript
-
-Concurrency
-
-Real-world Applications
-
-🧩 Engineering Stack
+<br/>
 
 <div align="center">
 
-Languages
+**B.Tech @ PDEU** · Class of 2028 &nbsp;|&nbsp; Backend Engineering · Full-Stack · Java · Concurrency · System Design
+&nbsp;
+*Build it. Understand it. Improve it.*
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css" />
 
-Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=flat-square)
 
-Backend & Data
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" />
 
-Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square)
+
+
+
+
+![Backend Focused](https://img.shields.io/badge/Focus-Backend%20%26%20Systems-blue?style=flat-square)
+
+
 
 </div>
 
-Core: Data Structures & Algorithms · OOP · DBMS · REST APIs · Relational Database Design · Java Concurrency · System Design Fundamentals
+<br/>
 
-🚀 Selected Work
-
-A few projects that represent the kind of engineering I enjoy exploring.
-
-🧵 NexusFlow
-
-Concurrent Workflow Orchestration Engine
-
-A systems-focused project exploring task execution, scheduling, concurrency, retries, priorities, cancellation, and worker management.
-
-Engineering: Java · ReentrantLock · Condition · Custom BlockingQueue · Thread Pool · Scheduling · Retry Logic · React · Node.js · MySQL
-
-→ View Repository
-
-📁 WorkSpace Nexus
-
-Document Management Platform
-
-A full-stack workspace focused on document creation, editing, authentication, storage, and document processing.
-
-Engineering: Next.js · TypeScript · Firebase · Firestore · Express · JWT · TipTap · PDF/DOCX Processing
-
-→ View Repository
-
-🏥 VitalNode
-
-Hospital Management System
-
-A database-driven healthcare management application covering operational workflows, authentication, role-based access, and analytics.
-
-Engineering: Node.js · Express · MySQL · EJS · JWT · RBAC · Chart.js
-
-→ View Repository
-
-⚙️ MediCare-Scheduler
-
-Hospital Patient Scheduling Simulator
-
-A scheduling-focused project connecting algorithmic concepts with a practical patient-queue scenario.
-
-Engineering: C++ · CPU Scheduling · Node.js · IPC
-
-→ View Repository
-
-🧠 Problem Solving
-
-I use Data Structures & Algorithms to strengthen the fundamentals behind the software I build.
-
-Current focus
-
-Graphs · Dynamic Programming · Greedy · Trees · Union-Find · Sliding Window · Binary Search
+## 🧩 Engineering Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mysql,mongodb,firebase,git,github,docker,vscode,postman" />
+
+</div>
+
+<div align="center">
+
+
+
+![DSA](https://img.shields.io/badge/-DSA-2C5364?style=flat-square)
+
+
+
+
+![OOP](https://img.shields.io/badge/-OOP-2C5364?style=flat-square)
+
+
+
+
+![DBMS](https://img.shields.io/badge/-DBMS-2C5364?style=flat-square)
+
+
+
+
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-2C5364?style=flat-square)
+
+
+
+
+![Java Concurrency](https://img.shields.io/badge/-Java%20Concurrency-2C5364?style=flat-square)
+
+
+
+
+![System Design](https://img.shields.io/badge/-System%20Design-2C5364?style=flat-square)
+
+
+
+</div>
+
+<br/>
+
+## 🚀 Selected Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧵 NexusFlow
+**Concurrent Workflow Orchestration Engine**
+
+Task execution, scheduling, retries, priorities, cancellation, and worker management.
+
+`Java` `ReentrantLock` `Condition` `BlockingQueue` `Thread Pool` `React` `Node.js` `MySQL`
+
+[→ View Repository](https://github.com/ABHISHEK-DHARIYAL)
+
+</td>
+<td width="50%" valign="top">
+
+### 📁 WorkSpace Nexus
+**Document Management Platform**
+
+Document creation/editing, auth, storage, and processing.
+
+`Next.js` `TypeScript` `Firebase` `Express` `JWT` `TipTap` `PDF/DOCX`
+
+[→ View Repository](https://github.com/ABHISHEK-DHARIYAL)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 VitalNode
+**Hospital Management System**
+
+Operational workflows, auth, role-based access, and analytics.
+
+`Node.js` `Express` `MySQL` `EJS` `JWT` `RBAC` `Chart.js`
+
+[→ View Repository](https://github.com/ABHISHEK-DHARIYAL)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ MediCare-Scheduler
+**Hospital Patient Scheduling Simulator**
+
+Algorithmic concepts applied to a practical patient-queue scenario.
+
+`C++` `CPU Scheduling` `Node.js` `IPC`
+
+[→ View Repository](https://github.com/ABHISHEK-DHARIYAL)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+
+
+![Graphs](https://img.shields.io/badge/-Graphs-0F2027?style=flat-square)
+
+ 
+
+![DP](https://img.shields.io/badge/-Dynamic%20Programming-0F2027?style=flat-square)
+
+ 
+
+![Greedy](https://img.shields.io/badge/-Greedy-0F2027?style=flat-square)
+
+ 
+
+![Trees](https://img.shields.io/badge/-Trees-0F2027?style=flat-square)
+
+ 
+
+![Union-Find](https://img.shields.io/badge/-Union--Find-0F2027?style=flat-square)
+
+ 
+
+![Sliding Window](https://img.shields.io/badge/-Sliding%20Window-0F2027?style=flat-square)
+
+ 
+
+![Binary Search](https://img.shields.io/badge/-Binary%20Search-0F2027?style=flat-square)
+
+
 
 <a href="https://leetcode.com/u/Abhishek_notKnown/">
   <img src="https://leetcard.jacoblin.cool/Abhishek_notKnown?theme=dark&font=baloo%202&ext=heatmap" width="90%" alt="LeetCode Statistics"/>
@@ -136,176 +184,54 @@ Graphs · Dynamic Programming · Greedy · Trees · Union-Find · Sliding Window
 
 </div>
 
-📊 GitHub Analytics
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-DHARIYAL&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" height="165" alt="GitHub Statistics"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHISHEK-DHARIYAL&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-DHARIYAL&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="165" alt="Top Languages"/>
 
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHISHEK-DHARIYAL&bg_color=0D1117&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution Activity Graph"/>
 
-</div>
-
-🏆 GitHub Achievements
-
-<div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=ABHISHEK-DHARIYAL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="96%" alt="GitHub Trophies"/>
-
-</div>
-
-🐍 Contribution Journey
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/ABHISHEK-DHARIYAL/ABHISHEK-DHARIYAL/output/github-contribution-grid-snake.svg" width="96%" alt="Contribution Snake"/>
 
 </div>
 
-<details>
-<summary><b>Snake setup</b></summary>
+<br/>
 
-The snake image requires a GitHub Action in this profile repository.
+## 🌱 Currently
 
-Use the open-source Platane/snk workflow to generate:
+| | |
+|---|---|
+| 🛠️ **Building** | Software projects beyond the basic CRUD layer |
+| 📚 **Learning** | Java Concurrency · System Design · Distributed Systems · Advanced DSA |
+| 🔍 **Exploring** | Backend Architecture · Performance & Scalability · Developer Tooling |
+| 🎯 **Goal** | Become a strong Software / Backend Engineer |
 
-output/github-contribution-grid-snake.svg
+<br/>
 
-Once the workflow has run, the image above will render automatically.
-
-</details>
-
-🌱 Currently
-
-BUILDING
-└── Software projects that go beyond the basic CRUD layer
-
-LEARNING
-├── Java Concurrency
-├── System Design
-├── Distributed Systems Fundamentals
-└── Advanced DSA
-
-EXPLORING
-├── Backend Architecture
-├── Performance & Scalability
-└── Developer Tooling
-
-GOAL
-└── Become a strong Software / Backend Engineer
-
-🔭 What I Care About
-
-        Fundamentals
-             │
-             ▼
-      ┌──────────────┐
-      │  Good Design │
-      └──────┬───────┘
-             │
-     ┌───────┼────────┐
-     ▼       ▼        ▼
-  Backend  Systems   DSA
-     │       │        │
-     └───────┼────────┘
-             ▼
-      Reliable Software
-
-I like projects where the interesting part is not only making the feature work, but understanding what happens underneath it — data flow, concurrency, failure handling, architecture, and scalability.
-
-📚 Engineering Interests
-
-Area
-
-What interests me
-
-☕ Java
-
-OOP, concurrency, JVM fundamentals
-
-🧵 Concurrency
-
-Locks, conditions, queues, scheduling, workers
-
-🌐 Backend
-
-APIs, authentication, architecture, reliability
-
-🗄️ Databases
-
-Schema design, queries, relationships, optimization
-
-🧠 DSA
-
-Problem solving, algorithms, complexity
-
-🏗️ System Design
-
-Scalability, caching, distributed components
-
-⚛️ Full Stack
-
-Building complete products from UI to data layer
-
-🎯 Developer Journey
-
-Learn fundamentals
-       ↓
-Build projects
-       ↓
-Break things
-       ↓
-Understand why
-       ↓
-Improve the architecture
-       ↓
-Build something better
-
-I'm still early in the journey — and that's exactly what makes the process exciting.
-
-🔗 Find Me Online
+## 📬 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/ABHISHEK-DHARIYAL">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Always up for talking about backend systems, concurrency, or interesting side projects.
 
-<a href="https://www.linkedin.com/in/abhishek-dhariyal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://potfolio-coral-six.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Abhishek_notKnown/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/idk_notKnown">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/abhishek-dhariyal/"><img src="https://img.shields.io/badge/Message%20me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://potfolio-coral-six.vercel.app/"><img src="https://img.shields.io/badge/See%20my%20work-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-Keep building. Keep questioning. Keep improving.
+<sub>Keep building. Keep questioning. Keep improving.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2C5364,100:0F2027" width="100%"/>
 
