@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ABHISHEK%20DHARIYAL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20Progress&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=ABHISHEK%20DHARIYAL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20Progress&descAlignY=62&descSize=17" width="100%"/>
 
 Building software with curiosity, fundamentals, and intent.
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="YOUR_LEETCODE_URL">LeetCode</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/abhishek-dhariyal/">LinkedIn</a> •
+  <a href="https://potfolio-coral-six.vercel.app/">Portfolio</a> •
+  <a href="https://leetcode.com/u/Abhishek_notKnown/">LeetCode</a> •
+  <a href="https://codeforces.com/profile/idk_notKnown">Codeforces</a> •
+  <a href="https://github.com/ABHISHEK-DHARIYAL">GitHub</a>
 </p>
 
 </div>
@@ -41,17 +42,17 @@ Backend & Full-Stack
 
 System Design
 
-Engineering Projects
+Software Projects
 
 Class of 2028
 
-Java · C++ · JS
+Java · C++ · JavaScript
 
 Concurrency
 
 Real-world Applications
 
-🧩 My Engineering Stack
+🧩 Engineering Stack
 
 <div align="center">
 
@@ -73,11 +74,11 @@ Tools
 
 </div>
 
-Core concepts: Data Structures & Algorithms · OOP · DBMS · REST APIs · Relational Database Design · Java Concurrency · System Design Fundamentals
+Core: Data Structures & Algorithms · OOP · DBMS · REST APIs · Relational Database Design · Java Concurrency · System Design Fundamentals
 
 🚀 Selected Work
 
-These projects are selected from my GitHub based on engineering depth, architecture, and the problems they explore.
+A few projects that represent the kind of engineering I enjoy exploring.
 
 🧵 NexusFlow
 
@@ -87,9 +88,9 @@ A systems-focused project exploring task execution, scheduling, concurrency, ret
 
 Engineering: Java · ReentrantLock · Condition · Custom BlockingQueue · Thread Pool · Scheduling · Retry Logic · React · Node.js · MySQL
 
-View Repository →
+→ View Repository
 
-📁 Workspace Nexus
+📁 WorkSpace Nexus
 
 Document Management Platform
 
@@ -97,7 +98,7 @@ A full-stack workspace focused on document creation, editing, authentication, st
 
 Engineering: Next.js · TypeScript · Firebase · Firestore · Express · JWT · TipTap · PDF/DOCX Processing
 
-View Repository →
+→ View Repository
 
 🏥 VitalNode
 
@@ -107,7 +108,7 @@ A database-driven healthcare management application covering operational workflo
 
 Engineering: Node.js · Express · MySQL · EJS · JWT · RBAC · Chart.js
 
-View Repository →
+→ View Repository
 
 ⚙️ MediCare-Scheduler
 
@@ -117,7 +118,7 @@ A scheduling-focused project connecting algorithmic concepts with a practical pa
 
 Engineering: C++ · CPU Scheduling · Node.js · IPC
 
-View Repository →
+→ View Repository
 
 🧠 Problem Solving
 
@@ -129,13 +130,11 @@ Graphs · Dynamic Programming · Greedy · Trees · Union-Find · Sliding Window
 
 <div align="center">
 
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo%202&ext=heatmap" width="90%" alt="LeetCode Statistics"/>
+<a href="https://leetcode.com/u/Abhishek_notKnown/">
+  <img src="https://leetcard.jacoblin.cool/Abhishek_notKnown?theme=dark&font=baloo%202&ext=heatmap" width="90%" alt="LeetCode Statistics"/>
 </a>
 
 </div>
-
-Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username.
 
 📊 GitHub Analytics
 
@@ -177,7 +176,18 @@ Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username.
 
 </div>
 
-Setup: The snake requires a GitHub Action to generate the SVG. If it is not available yet, add the Platane/snk workflow to your profile repository.
+<details>
+<summary><b>Snake setup</b></summary>
+
+The snake image requires a GitHub Action in this profile repository.
+
+Use the open-source Platane/snk workflow to generate:
+
+output/github-contribution-grid-snake.svg
+
+Once the workflow has run, the image above will render automatically.
+
+</details>
 
 🌱 Currently
 
@@ -209,12 +219,11 @@ GOAL
              │
      ┌───────┼────────┐
      ▼       ▼        ▼
-
-Backend Systems DSA
-│ │ │
-└───────┼────────┘
-▼
-Reliable Software
+  Backend  Systems   DSA
+     │       │        │
+     └───────┼────────┘
+             ▼
+      Reliable Software
 
 I like projects where the interesting part is not only making the feature work, but understanding what happens underneath it — data flow, concurrency, failure handling, architecture, and scalability.
 
@@ -255,37 +264,41 @@ Building complete products from UI to data layer
 🎯 Developer Journey
 
 Learn fundamentals
-↓
+       ↓
 Build projects
-↓
+       ↓
 Break things
-↓
+       ↓
 Understand why
-↓
+       ↓
 Improve the architecture
-↓
+       ↓
 Build something better
 
 I'm still early in the journey — and that's exactly what makes the process exciting.
 
-📫 Let's Connect
+🔗 Find Me Online
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://github.com/ABHISHEK-DHARIYAL">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-dhariyal/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://potfolio-coral-six.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/Abhishek_notKnown/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://codeforces.com/profile/idk_notKnown">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
