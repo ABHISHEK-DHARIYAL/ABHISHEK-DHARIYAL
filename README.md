@@ -127,11 +127,11 @@ Algorithmic concepts applied to a practical patient-queue scenario.<br/><br/>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="96%" alt="GitHub Metrics"/>
+<a href="https://github.com/ABHISHEK-DHARIYAL"><img src="https://img.shields.io/github/followers/ABHISHEK-DHARIYAL?style=for-the-badge&amp;logo=github&amp;color=2C5364&amp;labelColor=0F2027" alt="GitHub Followers"/></a>
 
 <br/><br/>
 
