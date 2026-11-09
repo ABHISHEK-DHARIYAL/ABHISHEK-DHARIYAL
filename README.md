@@ -117,10 +117,22 @@ Algorithmic concepts applied to a practical patient-queue scenario.<br/><br/>
 ![Sliding Window](https://img.shields.io/badge/-Sliding%20Window-0F2027?style=flat-square)
 ![Binary Search](https://img.shields.io/badge/-Binary%20Search-0F2027?style=flat-square)
 
-<br/><br/>
+</div>
+
+<br/>
+
+## 📈 Profile Analysis
+
+<div align="center">
 
 <a href="https://leetcode.com/u/Abhishek_notKnown/">
   <img src="https://leetcard.jacoblin.cool/Abhishek_notKnown?theme=dark&amp;font=baloo%202&amp;ext=heatmap" width="90%" alt="LeetCode Statistics"/>
+</a>
+
+<br/><br/>
+
+<a href="https://codeforces.com/profile/idk_notKnown">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=idk_notKnown&amp;theme=dark" width="90%" alt="Codeforces Statistics"/>
 </a>
 
 </div>
@@ -130,10 +142,6 @@ Algorithmic concepts applied to a practical patient-queue scenario.<br/><br/>
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<a href="https://github.com/ABHISHEK-DHARIYAL"><img src="https://img.shields.io/github/followers/ABHISHEK-DHARIYAL?style=for-the-badge&amp;logo=github&amp;color=2C5364&amp;labelColor=0F2027" alt="GitHub Followers"/></a>
-
-<br/><br/>
 
 <!-- Snake needs the snake.yml workflow to run once so the output branch exists. -->
 <picture>
